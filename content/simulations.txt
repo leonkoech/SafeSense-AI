@@ -1,0 +1,579 @@
+Self Speed,Right Speed,Left Speed,Prevention Measure,Left Front Distance (m),Right Front Distance (m),Left Back Distance (m),Right Back Distance (m),At Fault
+45,50,40,Check blind spot,2.2,2.5,2,2.3,Current
+60,55,65,Signal lane change,2.8,3,2.5,3.2,Other
+55,45,60,Increase vigilance,2.5,2.2,2.3,2,Current
+50,60,40,Slow down,2,2.8,2.2,2.5,Other
+40,50,35,Increase awareness,3,2,2.8,1.5,Other
+65,60,70,Check blind spot,2.3,2.6,2.1,2.4,Current
+55,60,50,Signal lane change,2.5,2.8,2,2.3,Current
+45,40,50,Increase vigilance,2,2.3,2.5,2.2,Other
+50,45,55,Slow down,2.8,2.5,2.2,2,Current
+60,65,55,Increase awareness,2.2,2,2.3,2.6,Other
+55,50,60,Check blind spot,2.5,2.2,2.6,2.1,Current
+40,45,35,Signal lane change,2.8,3,2.4,2.7,Other
+65,70,60,Increase vigilance,2.3,2.6,2.1,2.4,Current
+55,60,50,Slow down,2.5,2.8,2,2.3,Current
+45,40,50,Check blind spot,2,2.3,2.5,2.2,Current
+50,45,55,Signal lane change,2.8,2.5,2.2,2,Other
+60,65,55,Increase awareness,2.2,2,2.3,2.6,Other
+55,50,60,Check blind spot,2.5,2.2,2.6,2.1,Current
+40,45,35,Signal lane change,2.8,3,2.4,2.7,Other
+65,70,60,Increase vigilance,2.3,2.6,2.1,2.4,Current
+70,65,75,Check blind spot,1.8,2.1,2.4,1.9,Other
+35,40,30,Increase vigilance,3.2,1.8,2.9,2.5,Current
+50,45,55,Slow down,2.4,3,2.1,2.7,Other
+80,75,85,Increase awareness,1.5,2,2.2,1.8,Current
+45,50,40,Check blind spot,2.7,2.4,2,2.3,Current
+60,55,65,Signal lane change,3,2.8,2.7,3.1,Other
+40,35,45,Increase vigilance,3.5,2.1,3.2,1.9,Other
+75,70,80,Slow down,1.9,2.2,2.5,1.7,Current
+55,60,50,Check blind spot,2.2,2.5,2.8,2.1,Current
+30,35,25,Increase awareness,3.8,2.4,3.5,2.2,Other
+65,60,70,Signal lane change,2.7,3,2.4,2.8,Other
+50,45,55,Increase vigilance,3.2,1.9,3,2.6,Current
+85,80,90,Slow down,1.3,1.8,2,1.6,Current
+40,45,35,Check blind spot,2.9,2.2,2.4,2.1,Other
+70,65,75,Signal lane change,2.5,3.2,2.8,3,Other
+55,50,60,Increase awareness,3.4,2,3.1,2.7,Other
+80,75,85,Check blind spot,1.7,2.4,2.1,1.9,Current
+35,40,30,Increase vigilance,2.8,2.6,3.3,2,Other
+55,60,50,Slow down,2.5,2.8,2,2.3,Current
+45,50,40,Check blind spot,2.2,2.5,2,2.3,Current
+60,55,65,Signal lane change,2.8,3,2.5,3.2,Other
+55,45,60,Increase vigilance,2.5,2.2,2.3,2,Current
+50,60,40,Slow down,2,2.8,2.2,2.5,Other
+40,50,35,Increase awareness,3,2,2.8,1.5,Other
+65,60,70,Check blind spot,2.3,2.6,2.1,2.4,Current
+55,60,50,Signal lane change,2.5,2.8,2,2.3,Current
+45,40,50,Increase vigilance,2,2.3,2.5,2.2,Other
+50,45,55,Slow down,2.8,2.5,2.2,2,Current
+60,65,55,Increase awareness,2.2,2,2.3,2.6,Other
+55,50,60,Check blind spot,2.5,2.2,2.6,2.1,Current
+40,45,35,Signal lane change,2.8,3,2.4,2.7,Other
+65,70,60,Increase vigilance,2.3,2.6,2.1,2.4,Current
+70,65,75,Check blind spot,1.8,2.1,2.4,1.9,Other
+35,40,30,Increase vigilance,3.2,1.8,2.9,2.5,Current
+50,45,55,Slow down,2.4,3,2.1,2.7,Other
+80,75,85,Increase awareness,1.5,2,2.2,1.8,Current
+45,50,40,Check blind spot,2.7,2.4,2,2.3,Current
+60,55,65,Signal lane change,3,2.8,2.7,3.1,Other
+40,35,45,Increase vigilance,3.5,2.1,3.2,1.9,Other
+75,70,80,Slow down,1.9,2.2,2.5,1.7,Current
+55,60,50,Check blind spot,2.2,2.5,2.8,2.1,Current
+30,35,25,Increase awareness,3.8,2.4,3.5,2.2,Other
+65,60,70,Signal lane change,2.7,3,2.4,2.8,Other
+50,45,55,Increase vigilance,3.2,1.9,3,2.6,Current
+85,80,90,Slow down,1.3,1.8,2,1.6,Current
+40,45,35,Check blind spot,2.9,2.2,2.4,2.1,Other
+70,65,75,Signal lane change,2.5,3.2,2.8,3,Other
+55,50,60,Increase awareness,3.4,2,3.1,2.7,Other
+80,75,85,Check blind spot,1.7,2.4,2.1,1.9,Current
+35,40,30,Increase vigilance,2.8,2.6,3.3,2,Other
+45,50,40,Check blind spot,2.2,2.5,2,2.3,Current
+60,55,65,Signal lane change,2.8,3,2.5,3.2,Other
+55,45,60,Increase vigilance,2.5,2.2,2.3,2,Current
+50,60,40,Slow down,2,2.8,2.2,2.5,Other
+40,50,35,Increase awareness,3,2,2.8,1.5,Other
+65,60,70,Check blind spot,2.3,2.6,2.1,2.4,Current
+55,60,50,Signal lane change,2.5,2.8,2,2.3,Current
+45,40,50,Increase vigilance,2,2.3,2.5,2.2,Other
+50,45,55,Slow down,2.8,2.5,2.2,2,Current
+60,65,55,Increase awareness,2.2,2,2.3,2.6,Other
+55,50,60,Check blind spot,2.5,2.2,2.6,2.1,Current
+40,45,35,Signal lane change,2.8,3,2.4,2.7,Other
+65,70,60,Increase vigilance,2.3,2.6,2.1,2.4,Current
+55,60,50,Slow down,2.5,2.8,2,2.3,Current
+45,40,50,Check blind spot,2,2.3,2.5,2.2,Current
+50,45,55,Signal lane change,2.8,2.5,2.2,2,Other
+60,65,55,Increase awareness,2.2,2,2.3,2.6,Other
+55,50,60,Check blind spot,2.5,2.2,2.6,2.1,Current
+40,45,35,Signal lane change,2.8,3,2.4,2.7,Other
+65,70,60,Increase vigilance,2.3,2.6,2.1,2.4,Current
+70,65,75,Check blind spot,1.8,2.1,2.4,1.9,Other
+35,40,30,Increase vigilance,3.2,1.8,2.9,2.5,Current
+50,45,55,Slow down,2.4,3,2.1,2.7,Other
+80,75,85,Increase awareness,1.5,2,2.2,1.8,Current
+45,50,40,Check blind spot,2.7,2.4,2,2.3,Current
+60,55,65,Signal lane change,3,2.8,2.7,3.1,Other
+40,35,45,Increase vigilance,3.5,2.1,3.2,1.9,Other
+75,70,80,Slow down,1.9,2.2,2.5,1.7,Current
+55,60,50,Check blind spot,2.2,2.5,2.8,2.1,Current
+30,35,25,Increase awareness,3.8,2.4,3.5,2.2,Other
+65,60,70,Signal lane change,2.7,3,2.4,2.8,Other
+50,45,55,Increase vigilance,3.2,1.9,3,2.6,Current
+85,80,90,Slow down,1.3,1.8,2,1.6,Current
+40,45,35,Check blind spot,2.9,2.2,2.4,2.1,Other
+70,65,75,Signal lane change,2.5,3.2,2.8,3,Other
+55,50,60,Increase awareness,3.4,2,3.1,2.7,Other
+80,75,85,Check blind spot,1.7,2.4,2.1,1.9,Current
+35,40,30,Increase vigilance,2.8,2.6,3.3,2,Other
+55,60,50,Slow down,2.5,2.8,2,2.3,Current
+45,50,40,Check blind spot,2.2,2.5,2,2.3,Current
+60,55,65,Signal lane change,2.8,3,2.5,3.2,Other
+55,45,60,Increase vigilance,2.5,2.2,2.3,2,Current
+50,60,40,Slow down,2,2.8,2.2,2.5,Other
+40,50,35,Increase awareness,3,2,2.8,1.5,Other
+65,60,70,Check blind spot,2.3,2.6,2.1,2.4,Current
+55,60,50,Signal lane change,2.5,2.8,2,2.3,Current
+45,40,50,Increase vigilance,2,2.3,2.5,2.2,Other
+50,45,55,Slow down,2.8,2.5,2.2,2,Current
+60,65,55,Increase awareness,2.2,2,2.3,2.6,Other
+55,50,60,Check blind spot,2.5,2.2,2.6,2.1,Current
+40,45,35,Signal lane change,2.8,3,2.4,2.7,Other
+65,70,60,Increase vigilance,2.3,2.6,2.1,2.4,Current
+70,65,75,Check blind spot,1.8,2.1,2.4,1.9,Other
+35,40,30,Increase vigilance,3.2,1.8,2.9,2.5,Current
+50,45,55,Slow down,2.4,3,2.1,2.7,Other
+80,75,85,Increase awareness,1.5,2,2.2,1.8,Current
+45,50,40,Check blind spot,2.7,2.4,2,2.3,Current
+60,55,65,Signal lane change,3,2.8,2.7,3.1,Other
+40,35,45,Increase vigilance,3.5,2.1,3.2,1.9,Other
+75,70,80,Slow down,1.9,2.2,2.5,1.7,Current
+55,60,50,Check blind spot,2.2,2.5,2.8,2.1,Current
+30,35,25,Increase awareness,3.8,2.4,3.5,2.2,Other
+65,60,70,Signal lane change,2.7,3,2.4,2.8,Other
+50,45,55,Increase vigilance,3.2,1.9,3,2.6,Current
+85,80,90,Slow down,1.3,1.8,2,1.6,Current
+40,45,35,Check blind spot,2.9,2.2,2.4,2.1,Other
+70,65,75,Signal lane change,2.5,3.2,2.8,3,Other
+55,50,60,Increase awareness,3.4,2,3.1,2.7,Other
+80,75,85,Check blind spot,1.7,2.4,2.1,1.9,Current
+35,40,30,Increase vigilance,2.8,2.6,3.3,2,Other
+45,50,40,Check blind spot,2.2,2.5,2,2.3,Current
+60,55,65,Signal lane change,2.8,3,2.5,3.2,Other
+55,45,60,Increase vigilance,2.5,2.2,2.3,2,Current
+50,60,40,Slow down,2,2.8,2.2,2.5,Other
+40,50,35,Increase awareness,3,2,2.8,1.5,Other
+65,60,70,Check blind spot,2.3,2.6,2.1,2.4,Current
+55,60,50,Signal lane change,2.5,2.8,2,2.3,Current
+45,40,50,Increase vigilance,2,2.3,2.5,2.2,Other
+50,45,55,Slow down,2.8,2.5,2.2,2,Current
+60,65,55,Increase awareness,2.2,2,2.3,2.6,Other
+55,50,60,Check blind spot,2.5,2.2,2.6,2.1,Current
+40,45,35,Signal lane change,2.8,3,2.4,2.7,Other
+65,70,60,Increase vigilance,2.3,2.6,2.1,2.4,Current
+55,60,50,Slow down,2.5,2.8,2,2.3,Current
+45,40,50,Check blind spot,2,2.3,2.5,2.2,Current
+50,45,55,Signal lane change,2.8,2.5,2.2,2,Other
+60,65,55,Increase awareness,2.2,2,2.3,2.6,Other
+55,50,60,Check blind spot,2.5,2.2,2.6,2.1,Current
+40,45,35,Signal lane change,2.8,3,2.4,2.7,Other
+65,70,60,Increase vigilance,2.3,2.6,2.1,2.4,Current
+70,65,75,Check blind spot,1.8,2.1,2.4,1.9,Other
+35,40,30,Increase vigilance,3.2,1.8,2.9,2.5,Current
+50,45,55,Slow down,2.4,3,2.1,2.7,Other
+80,75,85,Increase awareness,1.5,2,2.2,1.8,Current
+45,50,40,Check blind spot,2.7,2.4,2,2.3,Current
+60,55,65,Signal lane change,3,2.8,2.7,3.1,Other
+40,35,45,Increase vigilance,3.5,2.1,3.2,1.9,Other
+75,70,80,Slow down,1.9,2.2,2.5,1.7,Current
+55,60,50,Check blind spot,2.2,2.5,2.8,2.1,Current
+30,35,25,Increase awareness,3.8,2.4,3.5,2.2,Other
+65,60,70,Signal lane change,2.7,3,2.4,2.8,Other
+50,45,55,Increase vigilance,3.2,1.9,3,2.6,Current
+85,80,90,Slow down,1.3,1.8,2,1.6,Current
+40,45,35,Check blind spot,2.9,2.2,2.4,2.1,Other
+70,65,75,Signal lane change,2.5,3.2,2.8,3,Other
+55,50,60,Increase awareness,3.4,2,3.1,2.7,Other
+80,75,85,Check blind spot,1.7,2.4,2.1,1.9,Current
+35,40,30,Increase vigilance,2.8,2.6,3.3,2,Other
+55,60,50,Slow down,2.5,2.8,2,2.3,Current
+45,50,40,Check blind spot,2.2,2.5,2,2.3,Current
+60,55,65,Signal lane change,2.8,3,2.5,3.2,Other
+55,45,60,Increase vigilance,2.5,2.2,2.3,2,Current
+50,60,40,Slow down,2,2.8,2.2,2.5,Other
+40,50,35,Increase awareness,3,2,2.8,1.5,Other
+65,60,70,Check blind spot,2.3,2.6,2.1,2.4,Current
+55,60,50,Signal lane change,2.5,2.8,2,2.3,Current
+45,40,50,Increase vigilance,2,2.3,2.5,2.2,Other
+50,45,55,Slow down,2.8,2.5,2.2,2,Current
+60,65,55,Increase awareness,2.2,2,2.3,2.6,Other
+55,50,60,Check blind spot,2.5,2.2,2.6,2.1,Current
+40,45,35,Signal lane change,2.8,3,2.4,2.7,Other
+65,70,60,Increase vigilance,2.3,2.6,2.1,2.4,Current
+70,65,75,Check blind spot,1.8,2.1,2.4,1.9,Other
+35,40,30,Increase vigilance,3.2,1.8,2.9,2.5,Current
+50,45,55,Slow down,2.4,3,2.1,2.7,Other
+80,75,85,Increase awareness,1.5,2,2.2,1.8,Current
+45,50,40,Check blind spot,2.7,2.4,2,2.3,Current
+60,55,65,Signal lane change,3,2.8,2.7,3.1,Other
+40,35,45,Increase vigilance,3.5,2.1,3.2,1.9,Other
+75,70,80,Slow down,1.9,2.2,2.5,1.7,Current
+55,60,50,Check blind spot,2.2,2.5,2.8,2.1,Current
+30,35,25,Increase awareness,3.8,2.4,3.5,2.2,Other
+65,60,70,Signal lane change,2.7,3,2.4,2.8,Other
+50,45,55,Increase vigilance,3.2,1.9,3,2.6,Current
+85,80,90,Slow down,1.3,1.8,2,1.6,Current
+40,45,35,Check blind spot,2.9,2.2,2.4,2.1,Other
+70,65,75,Signal lane change,2.5,3.2,2.8,3,Other
+55,50,60,Increase awareness,3.4,2,3.1,2.7,Other
+80,75,85,Check blind spot,1.7,2.4,2.1,1.9,Current
+35,40,30,Increase vigilance,2.8,2.6,3.3,2,Other
+45,50,40,Check blind spot,2.2,2.5,2,2.3,Current
+60,55,65,Signal lane change,2.8,3,2.5,3.2,Other
+55,45,60,Increase vigilance,2.5,2.2,2.3,2,Current
+50,60,40,Slow down,2,2.8,2.2,2.5,Other
+40,50,35,Increase awareness,3,2,2.8,1.5,Other
+65,60,70,Check blind spot,2.3,2.6,2.1,2.4,Current
+55,60,50,Signal lane change,2.5,2.8,2,2.3,Current
+45,40,50,Increase vigilance,2,2.3,2.5,2.2,Other
+50,45,55,Slow down,2.8,2.5,2.2,2,Current
+60,65,55,Increase awareness,2.2,2,2.3,2.6,Other
+55,50,60,Check blind spot,2.5,2.2,2.6,2.1,Current
+40,45,35,Signal lane change,2.8,3,2.4,2.7,Other
+65,70,60,Increase vigilance,2.3,2.6,2.1,2.4,Current
+55,60,50,Slow down,2.5,2.8,2,2.3,Current
+45,40,50,Check blind spot,2,2.3,2.5,2.2,Current
+50,45,55,Signal lane change,2.8,2.5,2.2,2,Other
+60,65,55,Increase awareness,2.2,2,2.3,2.6,Other
+55,50,60,Check blind spot,2.5,2.2,2.6,2.1,Current
+40,45,35,Signal lane change,2.8,3,2.4,2.7,Other
+65,70,60,Increase vigilance,2.3,2.6,2.1,2.4,Current
+70,65,75,Check blind spot,1.8,2.1,2.4,1.9,Other
+35,40,30,Increase vigilance,3.2,1.8,2.9,2.5,Current
+50,45,55,Slow down,2.4,3,2.1,2.7,Other
+80,75,85,Increase awareness,1.5,2,2.2,1.8,Current
+45,50,40,Check blind spot,2.7,2.4,2,2.3,Current
+60,55,65,Signal lane change,3,2.8,2.7,3.1,Other
+40,35,45,Increase vigilance,3.5,2.1,3.2,1.9,Other
+75,70,80,Slow down,1.9,2.2,2.5,1.7,Current
+55,60,50,Check blind spot,2.2,2.5,2.8,2.1,Current
+30,35,25,Increase awareness,3.8,2.4,3.5,2.2,Other
+65,60,70,Signal lane change,2.7,3,2.4,2.8,Other
+50,45,55,Increase vigilance,3.2,1.9,3,2.6,Current
+85,80,90,Slow down,1.3,1.8,2,1.6,Current
+40,45,35,Check blind spot,2.9,2.2,2.4,2.1,Other
+70,65,75,Signal lane change,2.5,3.2,2.8,3,Other
+55,50,60,Increase awareness,3.4,2,3.1,2.7,Other
+80,75,85,Check blind spot,1.7,2.4,2.1,1.9,Current
+35,40,30,Increase vigilance,2.8,2.6,3.3,2,Other
+55,60,50,Slow down,2.5,2.8,2,2.3,Current
+45,50,40,Check blind spot,2.2,2.5,2,2.3,Current
+60,55,65,Signal lane change,2.8,3,2.5,3.2,Other
+55,45,60,Increase vigilance,2.5,2.2,2.3,2,Current
+50,60,40,Slow down,2,2.8,2.2,2.5,Other
+40,50,35,Increase awareness,3,2,2.8,1.5,Other
+65,60,70,Check blind spot,2.3,2.6,2.1,2.4,Current
+55,60,50,Signal lane change,2.5,2.8,2,2.3,Current
+
+45,40,50,Increase vigilance,2,2.3,2.5,2.2,Other
+50,45,55,Slow down,2.8,2.5,2.2,2,Current
+60,65,55,Increase awareness,2.2,2,2.3,2.6,Other
+55,50,60,Check blind spot,2.5,2.2,2.6,2.1,Current
+40,45,35,Signal lane change,2.8,3,2.4,2.7,Other
+65,70,60,Increase vigilance,2.3,2.6,2.1,2.4,Current
+70,65,75,Check blind spot,1.8,2.1,2.4,1.9,Other
+35,40,30,Increase vigilance,3.2,1.8,2.9,2.5,Current
+50,45,55,Slow down,2.4,3,2.1,2.7,Other
+80,75,85,Increase awareness,1.5,2,2.2,1.8,Current
+45,50,40,Check blind spot,2.7,2.4,2,2.3,Current
+60,55,65,Signal lane change,3,2.8,2.7,3.1,Other
+40,35,45,Increase vigilance,3.5,2.1,3.2,1.9,Other
+75,70,80,Slow down,1.9,2.2,2.5,1.7,Current
+55,60,50,Check blind spot,2.2,2.5,2.8,2.1,Current
+30,35,25,Increase awareness,3.8,2.4,3.5,2.2,Other
+65,60,70,Signal lane change,2.7,3,2.4,2.8,Other
+50,45,55,Increase vigilance,3.2,1.9,3,2.6,Current
+85,80,90,Slow down,1.3,1.8,2,1.6,Current
+40,45,35,Check blind spot,2.9,2.2,2.4,2.1,Other
+70,65,75,Signal lane change,2.5,3.2,2.8,3,Other
+55,50,60,Increase awareness,3.4,2,3.1,2.7,Other
+80,75,85,Check blind spot,1.7,2.4,2.1,1.9,Current
+35,40,30,Increase vigilance,2.8,2.6,3.3,2,Other
+0,45,0,Switch lane,5.2,5.5,5.8,5.3,Other
+50,0,0,Switch lane,5.8,5.2,5.6,5.9,Other
+0,0,60,Switch lane,5.5,5.8,5.3,5.6,Current
+0,55,0,Switch lane,5.3,5.6,5.9,5.2,Other
+65,0,0,Switch lane,5.6,5.9,5.2,5.5,Other
+0,0,40,Switch lane,5.9,5.2,5.5,5.8,Current
+0,45,0,Switch lane,5.2,5.5,5.8,5.3,Other
+50,0,0,Switch lane,5.8,5.2,5.6,5.9,Other
+0,0,60,Switch lane,5.5,5.8,5.3,5.6,Current
+0,55,0,Switch lane,5.3,5.6,5.9,5.2,Other
+65,0,0,Switch lane,5.6,5.9,5.2,5.5,Other
+0,0,40,Switch lane,5.9,5.2,5.5,5.8,Current
+0,45,0,Switch lane,5.2,5.5,5.8,5.3,Other
+50,0,0,Switch lane,5.8,5.2,5.6,5.9,Other
+0,0,60,Switch lane,5.5,5.8,5.3,5.6,Current
+0,55,0,Switch lane,5.3,5.6,5.9,5.2,Other
+65,0,0,Switch lane,5.6,5.9,5.2,5.5,Other
+0,0,40,Switch lane,5.9,5.2,5.5,5.8,Current
+0,45,0,Switch lane,5.2,5.5,5.8,5.3,Other
+50,0,0,Switch lane,5.8,5.2,5.6,5.9,Other
+0,0,60,Switch lane,5.5,5.8,5.3,5.6,Current
+0,55,0,Switch lane,5.3,5.6,5.9,5.2,Other
+65,0,0,Switch lane,5.6,5.9,5.2,5.5,Other
+0,0,40,Switch lane,5.9,5.2,5.5,5.8,Current
+0,45,0,Switch lane,5.2,5.5,5.8,5.3,Other
+50,0,0,Switch lane,5.8,5.2,5.6,5.9,Other
+0,0,60,Switch lane,5.5,5.8,5.3,5.6,Current
+0,55,0,Switch lane,5.3,5.6,5.9,5.2,Other
+65,0,0,Switch lane,5.6,5.9,5.2,5.5,Other
+0,0,40,Switch lane,5.9,5.2,5.5,5.8,Current
+0,45,0,Switch lane,5.2,5.5,5.8,5.3,Other
+50,0,0,Switch lane,5.8,5.2,5.6,5.9,Other
+0,0,60,Switch lane,5.5,5.8,5.3,5.6,Current
+0,55,0,Switch lane,5.3,5.6,5.9,5.2,Other
+65,0,0,Switch lane,5.6,5.9,5.2,5.5,Other
+0,0,40,Switch lane,5.9,5.2,5.5,5.8,Current
+0,45,0,Switch lane,5.2,5.5,5.8,5.3,Other
+50,0,0,Switch lane,5.8,5.2,5.6,5.9,Other
+0,0,60,Switch lane,5.5,5.8,5.3,5.6,Current
+0,55,0,Switch lane,5.3,5.6,5.9,5.2,Other
+65,0,0,Switch lane,5.6,5.9,5.2,5.5,Other
+0,0,40,Switch lane,5.9,5.2,5.5,5.8,Current
+0,45,0,Switch lane,5.2,5.5,5.8,5.3,Other
+50,0,0,Switch lane,5.8,5.2,5.6,5.9,Other
+0,0,60,Switch lane,5.5,5.8,5.3,5.6,Current
+0,55,0,Switch lane,5.3,5.6,5.9,5.2,Other
+65,0,0,Switch lane,5.6,5.9,5.2,5.5,Other
+0,0,40,Switch lane,5.9,5.2,5.5,5.8,Current
+0,45,0,Switch lane,5.2,5.5,5.8,5.3,Other
+50,0,0,Switch lane,5.8,5.2,5.6,5.9,Other
+0,0,60,Switch lane,5.5,5.8,5.3,5.6,Current
+0,55,0,Switch lane,5.3,5.6,5.9,5.2,Other
+65,0,0,Switch lane,5.6,5.9,5.2,5.5,Other
+0,0,40,Switch lane,5.9,5.2,5.5,5.8,Current
+0,45,0,Switch lane,5.2,5.5,5.8,5.3,Other
+50,0,0,Speed up,5.8,5.2,5.6,5.9,Other
+0,0,60,Brake,5.5,5.8,5.3,5.6,Current
+0,55,0,Signal lane change,5.3,5.6,5.9,5.2,Other
+65,0,0,Increase awareness,5.6,5.9,5.2,5.5,Other
+0,0,40,Check blind spot,5.9,5.2,5.5,5.8,Current
+0,45,0,Switch lane,5.2,5.5,5.8,5.3,Other
+50,0,0,Increase vigilance,5.8,5.2,5.6,5.9,Other
+0,0,60,Signal lane change,5.5,5.8,5.3,5.6,Current
+0,55,0,Increase awareness,5.3,5.6,5.9,5.2,Other
+65,0,0,Speed up,5.6,5.9,5.2,5.5,Other
+0,0,40,Brake,5.9,5.2,5.5,5.8,Current
+0,45,0,Increase vigilance,5.2,5.5,5.8,5.3,Other
+50,0,0,Check blind spot,5.8,5.2,5.6,5.9,Other
+0,0,60,Switch lane,5.5,5.8,5.3,5.6,Current
+0,55,0,Increase awareness,5.3,5.6,5.9,5.2,Other
+65,0,0,Signal lane change,5.6,5.9,5.2,5.5,Other
+0,0,40,Speed up,5.9,5.2,5.5,5.8,Current
+0,45,0,Brake,5.2,5.5,5.8,5.3,Other
+50,0,0,Check blind spot,5.8,5.2,5.6,5.9,Other
+0,0,60,Increase vigilance,5.5,5.8,5.3,5.6,Current
+0,55,0,Speed up,5.3,5.6,5.9,5.2,Other
+65,0,0,Switch lane,5.6,5.9,5.2,5.5,Other
+0,0,40,Signal lane change,5.9,5.2,5.5,5.8,Current
+0,45,0,Increase awareness,5.2,5.5,5.8,5.3,Other
+50,0,0,Brake,5.8,5.2,5.6,5.9,Other
+0,0,60,Check blind spot,5.5,5.8,5.3,5.6,Current
+0,55,0,Switch lane,5.3,5.6,5.9,5.2,Other
+65,0,0,Increase vigilance,5.6,5.9,5.2,5.5,Other
+0,0,40,Speed up,5.9,5.2,5.5,5.8,Current
+0,45,0,Signal lane change,5.2,5.5,5.8,5.3,Other
+50,0,0,Increase awareness,5.8,5.2,5.6,5.9,Other
+0,0,60,Check blind spot,5.5,5.8,5.3,5.6,Current
+0,55,0,Brake,5.3,5.6,5.9,5.2,Other
+65,0,0,Switch lane,5.6,5.9,5.2,5.5,Other
+0,0,40,Increase vigilance,5.9,5.2,5.5,5.8,Current
+0,45,0,Speed up,5.2,5.5,5.8,5.3,Other
+50,0,0,Signal lane change,5.8,5.2,5.6,5.9,Other
+0,0,60,Increase awareness,5.5,5.8,5.3,5.6,Current
+0,55,0,Check blind spot,5.3,5.6,5.9,5.2,Other
+65,0,0,Brake,5.6,5.9,5.2,5.5,Other
+0,0,40,Switch lane,5.9,5.2,5.5,5.8,Current
+0,45,0,Increase vigilance,5.2,5.5,5.8,5.3,Other
+50,0,0,Speed up,5.8,5.2,5.6,5.9,Other
+0,0,60,Signal lane change,5.5,5.8,5.3,5.6,Current
+0,55,0,Increase awareness,5.3,5.6,5.9,5.2,Other
+65,0,0,Check blind spot,5.6,5.9,5.2,5.5,Other
+0,0,40,Switch lane,5.9,5.2,5.5,5.8,Current
+0,45,0,Switch lane,5.2,5.5,5.8,5.3,Other
+50,0,0,Speed up,5.8,5.2,5.6,5.9,Other
+0,0,60,Brake,5.5,5.8,5.3,5.6,Current
+0,55,0,Signal lane change,5.3,5.6,5.9,5.2,Other
+65,0,0,Increase awareness,5.6,5.9,5.2,5.5,Other
+0,0,40,Check blind spot,5.9,5.2,5.5,5.8,Current
+0,45,0,Switch lane,5.2,5.5,5.8,5.3,Other
+50,0,0,Increase vigilance,5.8,5.2,5.6,5.9,Other
+0,0,60,Signal lane change,5.5,5.8,5.3,5.6,Current
+0,55,0,Increase awareness,5.3,5.6,5.9,5.2,Other
+65,0,0,Speed up,5.6,5.9,5.2,5.5,Other
+0,0,40,Brake,5.9,5.2,5.5,5.8,Current
+0,45,0,Increase vigilance,5.2,5.5,5.8,5.3,Other
+50,0,0,Check blind spot,5.8,5.2,5.6,5.9,Other
+0,0,60,Switch lane,5.5,5.8,5.3,5.6,Current
+0,55,0,Increase awareness,5.3,5.6,5.9,5.2,Other
+65,0,0,Signal lane change,5.6,5.9,5.2,5.5,Other
+0,0,40,Speed up,5.9,5.2,5.5,5.8,Current
+0,45,0,Brake,5.2,5.5,5.8,5.3,Other
+50,0,0,Check blind spot,5.8,5.2,5.6,5.9,Other
+0,0,60,Increase vigilance,5.5,5.8,5.3,5.6,Current
+0,55,0,Speed up,5.3,5.6,5.9,5.2,Other
+65,0,0,Switch lane,5.6,5.9,5.2,5.5,Other
+0,0,40,Signal lane change,5.9,5.2,5.5,5.8,Current
+0,45,0,Increase awareness,5.2,5.5,5.8,5.3,Other
+50,0,0,Brake,5.8,5.2,5.6,5.9,Other
+0,0,60,Check blind spot,5.5,5.8,5.3,5.6,Current
+0,55,0,Switch lane,5.3,5.6,5.9,5.2,Other
+65,0,0,Increase vigilance,5.6,5.9,5.2,5.5,Other
+0,0,40,Speed up,5.9,5.2,5.5,5.8,Current
+0,45,0,Signal lane change,5.2,5.5,5.8,5.3,Other
+50,0,0,Increase awareness,5.8,5.2,5.6,5.9,Other
+0,0,60,Check blind spot,5.5,5.8,5.3,5.6,Current
+0,55,0,Brake,5.3,5.6,5.9,5.2,Other
+65,0,0,Switch lane,5.6,5.9,5.2,5.5,Other
+0,0,40,Increase vigilance,5.9,5.2,5.5,5.8,Current
+0,45,0,Speed up,5.2,5.5,5.8,5.3,Other
+50,0,0,Signal lane change,5.8,5.2,5.6,5.9,Other
+0,0,60,Increase awareness,5.5,5.8,5.3,5.6,Current
+0,55,0,Check blind spot,5.3,5.6,5.9,5.2,Other
+65,0,0,Brake,5.6,5.9,5.2,5.5,Other
+0,0,40,Switch lane,5.9,5.2,5.5,5.8,Current
+0,45,0,Increase awareness,5.2,5.5,5.8,5.3,Other
+50,0,0,Speed up,5.8,5.2,5.6,5.9,Other
+0,0,60,Signal lane change,5.5,5.8,5.3,5.6,Current
+0,55,0,Increase vigilance,5.3,5.6,5.9,5.2,Other
+65,0,0,Check blind spot,5.6,5.9,5.2,5.5,Other
+0,0,40,Switch lane,5.9,5.2,5.5,5.8,Current
+0,45,0,Speed up,5.2,5.5,5.8,5.3,Other
+50,0,0,Signal lane change,5.8,5.2,5.6,5.9,Other
+0,0,60,Increase awareness,5.5,5.8,5.3,5.6,Current
+0,55,0,Check blind spot,5.3,5.6,5.9,5.2,Other
+65,0,0,Brake,5.6,5.9,5.2,5.5,Other
+0,0,40,Increase vigilance,5.9,5.2,5.5,5.8,Current
+0,45,0,Switch lane,5.2,5.5,5.8,5.3,Other
+50,0,0,Increase awareness,5.8,5.2,5.6,5.9,Other
+0,0,60,Brake,5.5,5.8,5.3,5.6,Current
+0,55,0,Speed up,5.3,5.6,5.9,5.2,Other
+65,0,0,Switch lane,5.6,5.9,5.2,5.5,Other
+0,0,40,Signal lane change,5.9,5.2,5.5,5.8,Current
+0,45,0,Increase vigilance,5.2,5.5,5.8,5.3,Other
+50,0,0,Brake,5.8,5.2,5.6,5.9,Other
+0,0,60,Check blind spot,5.5,5.8,5.3,5.6,Current
+0,55,0,Switch lane,5.3,5.6,5.9,5.2,Other
+65,0,0,Increase awareness,5.6,5.9,5.2,5.5,Other
+0,0,40,Speed up,5.9,5.2,5.5,5.8,Current
+0,45,0,Signal lane change,5.2,5.5,5.8,5.3,Other
+50,0,0,Check blind spot,5.8,5.2,5.6,5.9,Other
+0,0,60,Switch lane,5.5,5.8,5.3,5.6,Current
+0,55,0,Increase awareness,5.3,5.6,5.9,5.2,Other
+65,0,0,Speed up,5.6,5.9,5.2,5.5,Other
+0,0,40,Brake,5.9,5.2,5.5,5.8,Current
+0,45,0,Switch lane,5.2,5.5,5.8,5.3,Other
+50,0,0,Speed up,5.8,5.2,5.6,5.9,Other
+0,0,60,Brake,5.5,5.8,5.3,5.6,Current
+0,55,0,Signal lane change,5.3,5.6,5.9,5.2,Other
+65,0,0,Increase awareness,5.6,5.9,5.2,5.5,Other
+0,0,40,Check blind spot,5.9,5.2,5.5,5.8,Current
+0,45,0,Switch lane,5.2,5.5,5.8,5.3,Other
+50,0,0,Increase vigilance,5.8,5.2,5.6,5.9,Other
+0,0,60,Signal lane change,5.5,5.8,5.3,5.6,Current
+0,55,0,Increase awareness,5.3,5.6,5.9,5.2,Other
+65,0,0,Speed up,5.6,5.9,5.2,5.5,Other
+0,0,40,Brake,5.9,5.2,5.5,5.8,Current
+0,45,0,Increase vigilance,5.2,5.5,5.8,5.3,Other
+50,0,0,Check blind spot,5.8,5.2,5.6,5.9,Other
+0,0,60,Switch lane,5.5,5.8,5.3,5.6,Current
+0,55,0,Increase awareness,5.3,5.6,5.9,5.2,Other
+65,0,0,Signal lane change,5.6,5.9,5.2,5.5,Other
+0,0,40,Speed up,5.9,5.2,5.5,5.8,Current
+0,45,0,Brake,5.2,5.5,5.8,5.3,Other
+50,0,0,Check blind spot,5.8,5.2,5.6,5.9,Other
+0,0,60,Increase vigilance,5.5,5.8,5.3,5.6,Current
+0,55,0,Speed up,5.3,5.6,5.9,5.2,Other
+65,0,0,Switch lane,5.6,5.9,5.2,5.5,Other
+0,0,40,Signal lane change,5.9,5.2,5.5,5.8,Current
+0,45,0,Increase awareness,5.2,5.5,5.8,5.3,Other
+50,0,0,Brake,5.8,5.2,5.6,5.9,Other
+0,0,60,Check blind spot,5.5,5.8,5.3,5.6,Current
+0,55,0,Switch lane,5.3,5.6,5.9,5.2,Other
+65,0,0,Increase vigilance,5.6,5.9,5.2,5.5,Other
+0,0,40,Speed up,5.9,5.2,5.5,5.8,Current
+0,45,0,Signal lane change,5.2,5.5,5.8,5.3,Other
+50,0,0,Increase awareness,5.8,5.2,5.6,5.9,Other
+0,0,60,Check blind spot,5.5,5.8,5.3,5.6,Current
+0,55,0,Brake,5.3,5.6,5.9,5.2,Other
+65,0,0,Switch lane,5.6,5.9,5.2,5.5,Other
+0,0,40,Increase vigilance,5.9,5.2,5.5,5.8,Current
+0,45,0,Speed up,5.2,5.5,5.8,5.3,Other
+50,0,0,Signal lane change,5.8,5.2,5.6,5.9,Other
+0,0,60,Increase awareness,5.5,5.8,5.3,5.6,Current
+0,55,0,Check blind spot,5.3,5.6,5.9,5.2,Other
+65,0,0,Brake,5.6,5.9,5.2,5.5,Other
+0,0,40,Switch lane,5.9,5.2,5.5,5.8,Current
+0,45,0,Increase awareness,5.2,5.5,5.8,5.3,Other
+50,0,0,Speed up,5.8,5.2,5.6,5.9,Other
+0,0,60,Signal lane change,5.5,5.8,5.3,5.6,Current
+0,55,0,Increase vigilance,5.3,5.6,5.9,5.2,Other
+65,0,0,Check blind spot,5.6,5.9,5.2,5.5,Other
+0,0,40,Switch lane,5.9,5.2,5.5,5.8,Current
+0,45,0,Speed up,5.2,5.5,5.8,5.3,Other
+50,0,0,Signal lane change,5.8,5.2,5.6,5.9,Other
+0,0,60,Increase awareness,5.5,5.8,5.3,5.6,Current
+0,55,0,Check blind spot,5.3,5.6,5.9,5.2,Other
+65,0,0,Speed up,5.6,5.9,5.2,5.5,Other
+0,0,40,Brake,5.9,5.2,5.5,5.8,Current
+45,50,40,Check blind spot,2.2,2.5,2,2.3,Current
+60,55,65,Signal lane change,2.8,3,2.5,3.2,Other
+55,45,60,Increase vigilance,2.5,2.2,2.3,2,Current
+50,60,40,Slow down,2,2.8,2.2,2.5,Other
+40,50,35,Increase awareness,3,2,2.8,1.5,Other
+65,60,70,Check blind spot,2.3,2.6,2.1,2.4,Current
+55,60,50,Signal lane change,2.5,2.8,2,2.3,Current
+45,40,50,Increase vigilance,2,2.3,2.5,2.2,Other
+50,45,55,Slow down,2.8,2.5,2.2,2,Current
+60,65,55,Increase awareness,2.2,2,2.3,2.6,Other
+55,50,60,Check blind spot,2.5,2.2,2.6,2.1,Current
+40,45,35,Signal lane change,2.8,3,2.4,2.7,Other
+65,70,60,Increase vigilance,2.3,2.6,2.1,2.4,Current
+55,60,50,Slow down,2.5,2.8,2,2.3,Current
+45,40,50,Check blind spot,2,2.3,2.5,2.2,Current
+50,45,55,Signal lane change,2.8,2.5,2.2,2,Other
+60,65,55,Increase awareness,2.2,2,2.3,2.6,Other
+55,50,60,Check blind spot,2.5,2.2,2.6,2.1,Current
+40,45,35,Signal lane change,2.8,3,2.4,2.7,Other
+65,70,60,Increase vigilance,2.3,2.6,2.1,2.4,Current
+70,65,75,Check blind spot,1.8,2.1,2.4,1.9,Other
+35,40,30,Increase vigilance,3.2,1.8,2.9,2.5,Current
+50,45,55,Slow down,2.4,3,2.1,2.7,Other
+80,75,85,Increase awareness,1.5,2,2.2,1.8,Current
+45,50,40,Check blind spot,2.7,2.4,2,2.3,Current
+60,55,65,Signal lane change,3,2.8,2.7,3.1,Other
+40,35,45,Increase vigilance,3.5,2.1,3.2,1.9,Other
+75,70,80,Slow down,1.9,2.2,2.5,1.7,Current
+55,60,50,Check blind spot,2.2,2.5,2.8,2.1,Current
+30,35,25,Increase awareness,3.8,2.4,3.5,2.2,Other
+65,60,70,Signal lane change,2.7,3,2.4,2.8,Other
+50,45,55,Increase vigilance,3.2,1.9,3,2.6,Current
+85,80,90,Slow down,1.3,1.8,2,1.6,Current
+40,45,35,Check blind spot,2.9,2.2,2.4,2.1,Other
+70,65,75,Signal lane change,2.5,3.2,2.8,3,Other
+55,50,60,Increase awareness,3.4,2,3.1,2.7,Other
+80,75,85,Check blind spot,1.7,2.4,2.1,1.9,Current
+35,40,30,Increase vigilance,2.8,2.6,3.3,2,Other
+45,50,40,Check blind spot,2.2,2.5,2,2.3,Current
+60,55,65,Signal lane change,2.8,3,2.5,3.2,Other
+55,45,60,Increase vigilance,2.5,2.2,2.3,2,Current
+50,60,40,Slow down,2,2.8,2.2,2.5,Other
+40,50,35,Increase awareness,3,2,2.8,1.5,Other
+65,60,70,Check blind spot,2.3,2.6,2.1,2.4,Current
+55,60,50,Signal lane change,2.5,2.8,2,2.3,Current
+45,40,50,Increase vigilance,2,2.3,2.5,2.2,Other
+50,45,55,Slow down,2.8,2.5,2.2,2,Current
+60,65,55,Increase awareness,2.2,2,2.3,2.6,Other
+55,50,60,Check blind spot,2.5,2.2,2.6,2.1,Current
+40,45,35,Signal lane change,2.8,3,2.4,2.7,Other
+65,70,60,Increase vigilance,2.3,2.6,2.1,2.4,Current
+70,65,75,Check blind spot,1.8,2.1,2.4,1.9,Other
+35,40,30,Increase vigilance,3.2,1.8,2.9,2.5,Current
+50,45,55,Slow down,2.4,3,2.1,2.7,Other
+80,75,85,Increase awareness,1.5,2,2.2,1.8,Current
+45,50,40,Check blind spot,2.7,2.4,2,2.3,Current
+60,55,65,Signal lane change,3,2.8,2.7,3.1,Other
+40,35,45,Increase vigilance,3.5,2.1,3.2,1.9,Other
+75,70,80,Slow down,1.9,2.2,2.5,1.7,Current
+55,60,50,Check blind spot,2.2,2.5,2.8,2.1,Current
+30,35,25,Increase awareness,3.8,2.4,3.5,2.2,Other
+65,60,70,Signal lane change,2.7,3,2.4,2.8,Other
+50,45,55,Increase vigilance,3.2,1.9,3,2.6,Current
+85,80,90,Slow down,1.3,1.8,2,1.6,Current
+40,45,35,Check blind spot,2.9,2.2,2.4,2.1,Other
+70,65,75,Signal lane change,2.5,3.2,2.8,3,Other
+55,50,60,Increase awareness,3.4,2,3.1,2.7,Other
+80,75,85,Check blind spot,1.7,2.4,2.1,1.9,Current
+35,40,30,Increase vigilance,2.8,2.6,3.3,2,Other
